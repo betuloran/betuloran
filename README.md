@@ -1,8 +1,6 @@
 ### 💫 About Me:
 💻 I’m currently working on web development<br>📖 I’m currently learning Javascript & React<br>📫 How to reach me betul.oran2@gmail.com
 <br>
-<br>
-[![](https://visitcount.itsvg.in/api?id=betuloran&icon=0&color=5)](https://visitcount.itsvg.in)
 ### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/betüloran) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@betuloran) 
 
